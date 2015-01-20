@@ -1,2 +1,0 @@
-This is a test
-Hemisphere S320 GNSS RTK GPS
